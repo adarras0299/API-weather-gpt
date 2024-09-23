@@ -1,3 +1,3 @@
 # config.py
-OPENWEATHER_API_KEY = 'votre_cle_openweather'
-OPENAI_API_KEY = 'votre_cle_openai'
+OPENWEATHER_API_KEY = '271df73120fb0c6e52b62e2cdc93ce77'
+OPENAI_API_KEY = 'xxx'
